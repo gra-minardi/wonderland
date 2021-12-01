@@ -1,5 +1,5 @@
 --- 
-title: "ALICE IN WONDDERLAND"
+title: "ALICE IN WONDERLAND"
 author: "Lewis Carrol"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
